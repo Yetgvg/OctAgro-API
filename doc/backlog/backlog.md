@@ -15,7 +15,7 @@
 |  03    | 05  | Gereciamento de gerente como aprovador. | Criar o controle de gerente por parte do aprovador. | Média
 |  03    | 06  | Controle dos fornecedores | Criar um formulário de listagem dos fornecedores com as informações necessárias e botões de adicionar, alterar e excluir. | Média
 |  03    | 07  | Controle dos produtos | Criar um formulário de listagem dos produtos com as informações necessárias e botões de adicionar, alterar e excluir. | Média
-|  03    | 08  | Controle das regras de recebimento | Criar um formulário de listagem das regras com as informações necessárias e botões de adicionar, alterar e excluir. | Média
+|  04    | 08  | Controle das regras de recebimento | Criar um formulário de listagem das regras com as informações necessárias e botões de adicionar, alterar e excluir. | Média
 |  04    | 09  | Controle dos usuarios | Criar um formulário de listagem das regras com as informações necessárias e botões de adicionar, alterar e excluir. | Baixa
 |  04    | 10  | Alteração da telas para organização por usuário | Definir quais informações são relevantes para cada tipo de usuário e apresentá-las de forma clara e organizada. | Baixa
 |  04    | 11  | Implementação do sistema responsivo | Avaliar a interface do sistema em diferentes dispositivos (computador, tablet, celular) para garantir que seja responsiva e de fácil acesso em todas as plataformas. | Baixa
